@@ -127,9 +127,16 @@ Each symbol is of length n = 4. In the data we only encounter Q = 16 distinct wo
 \sum_{i=1}^{16} 10^{-4} = 1.6*10^{-3} \leq 1
 \end{equation} 
 The Kraft condition is respected. This means that there exists a uniquely decodable code having a length of 4 (with an alphabet from 0 to 9).
-If we compute the probability of occurrence of each symbol with \textit{estimate\_proba} and then compute the entropy we obtain 3.6517. This is the optimal average length for a symbol (in bits). 
+If we compute the probability of occurrence of each symbol with \textit{estimate\_proba} and then compute the entropy we obtain 3.6517. This is the optimal average length for a symbol (in bits). This code is not complete since the result of the sum in Kraft's inequality is not exactly 1.
 
 \section*{9}
-To represent a number in 0-9 we need at least 4 bits. To represent 4 numbers (one symbol) we then need 16 bits. With \textit{encode\_to\_numerals} we get codes between 1-16, which can be represented with 4 bits. The resulting code is then 16/4 = 4 times compressed (compression rate of 4). Since we only detect 16 symbols in data we can expect after the use of \textit{encode\_to\_numerals} to receive a symbol of maximum length of 2 (but 4 bits). (if we had no idea that the source only transmits 16 symbols we know that the source qan only emit 10000 different messages but then   
+To represent a number in 0-9 we need at least 4 bits. To represent 4 numbers (one symbol) we then need 16 bits. With \textit{encode\_to\_numerals} we get codes between 1-16, which can be represented with 4 bits. The resulting code is then 16/4 = 4 times compressed (compression rate of 4). Since we only detect 16 symbols in data we can expect after the use of \textit{encode\_to\_numerals} to receive a symbol of maximum 4 bits. (if we had no idea that the source only transmits 16 symbols we know that the source can only emit 10000 different messages but then  
 
+\section*{10} 
+Length of symbol n = 1, Q = 16 different messages encountered, q = 16 (the alphabet is a number between 1 and 16 represented with 4 bits)
+
+\begin{equation}
+\sum_{i=1}^{16} 16^{-1} = 1
+\end{equation} 
+This code is decodable, complete, regular, instantaneous and prefix -free (all codes are 4 bits sized and each one is associated with one symbol). This code is not absolutely optimal since the avergae
 \end{document}
