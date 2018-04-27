@@ -1,4 +1,4 @@
-u = unique(data);
+u = unique(data)
 p = estimate_proba(data, u)
 entropy = 0;
 

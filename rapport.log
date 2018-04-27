@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.4.26)  26 APR 2018 15:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.4)  27 APR 2018 13:43
 entering extended mode
 **./rapport.tex
 (rapport.tex
@@ -435,6 +435,60 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@height=\dimen106
 \Gin@req@width=\dimen107
 )
+("D:\Program Files\Miktek\tex\latex\adjustbox\adjustbox.sty"
+Package: adjustbox 2018/04/08 v1.1 Adjusting TeX boxes (trim, clip, ...)
+
+("D:\Program Files\Miktek\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("D:\Program Files\Miktek\tex\generic\xkeyval\xkeyval.tex"
+("D:\Program Files\Miktek\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count97
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("D:\Program Files\Miktek\tex\latex\adjustbox\adjcalc.sty"
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+("D:\Program Files\Miktek\tex\latex\adjustbox\trimclip.sty"
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
+
+("D:\Program Files\Miktek\tex\latex\collectbox\collectbox.sty"
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box26
+)
+\tc@llx=\dimen108
+\tc@lly=\dimen109
+\tc@urx=\dimen110
+\tc@ury=\dimen111
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+("D:\Program Files\Miktek\tex\latex\adjustbox\tc-pdftex.def"
+File: tc-pdftex.def 2018/04/08 v2.1 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen112
+\adjbox@Height=\dimen113
+\adjbox@Depth=\dimen114
+\adjbox@Totalheight=\dimen115
+\adjbox@pwidth=\dimen116
+\adjbox@pheight=\dimen117
+\adjbox@pdepth=\dimen118
+\adjbox@ptotalheight=\dimen119
+
+("D:\Program Files\Miktek\tex\latex\ifoddpage\ifoddpage.sty"
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count98
+)
+("D:\Program Files\Miktek\tex\latex\ltxmisc\varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box27
+\sift@deathcycles=\count99
+\@vwid@loff=\dimen120
+\@vwid@roff=\dimen121
+))
 ("D:\Program Files\Miktek\tex\latex\placeins\placeins.sty"
 Package: placeins 2005/04/18  v 2.2
 )
@@ -448,51 +502,51 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 ("D:\Program Files\Miktek\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks18
-\ex@=\dimen108
+\@emptytoks=\toks20
+\ex@=\dimen122
 ))
 ("D:\Program Files\Miktek\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen109
+\pmbraise@=\dimen123
 )
 ("D:\Program Files\Miktek\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count97
+\inf@bad=\count100
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count98
-\leftroot@=\count99
+\uproot@=\count101
+\leftroot@=\count102
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count100
-\DOTSCASE@=\count101
+\classnum@=\count103
+\DOTSCASE@=\count104
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
-\Mathstrutbox@=\box26
-\strutbox@=\box27
-\big@size=\dimen110
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen124
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count102
-\c@MaxMatrixCols=\count103
+\macc@depth=\count105
+\c@MaxMatrixCols=\count106
 \dotsspace@=\muskip10
-\c@parentequation=\count104
-\dspbrk@lvl=\count105
-\tag@help=\toks19
-\row@=\count106
-\column@=\count107
-\maxfields@=\count108
-\andhelp@=\toks20
-\eqnshift@=\dimen111
-\alignsep@=\dimen112
-\tagshift@=\dimen113
-\tagwidth@=\dimen114
-\totwidth@=\dimen115
-\lineht@=\dimen116
-\@envbody=\toks21
+\c@parentequation=\count107
+\dspbrk@lvl=\count108
+\tag@help=\toks21
+\row@=\count109
+\column@=\count110
+\maxfields@=\count111
+\andhelp@=\toks22
+\eqnshift@=\dimen125
+\alignsep@=\dimen126
+\tagshift@=\dimen127
+\tagwidth@=\dimen128
+\totwidth@=\dimen129
+\lineht@=\dimen130
+\@envbody=\toks23
 \multlinegap=\skip49
 \multlinetaggap=\skip50
-\mathdisplay@stack=\toks22
+\mathdisplay@stack=\toks24
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
@@ -508,35 +562,35 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ))
 ("D:\Program Files\Miktek\tex\latex\tools\enumerate.sty"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks23
+\@enLab=\toks25
 )
 ("D:\Program Files\Miktek\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count109
-\float@exts=\toks24
-\float@box=\box28
-\@float@everytoks=\toks25
-\@floatcapt=\box29
+\c@float@type=\count112
+\float@exts=\toks26
+\float@box=\box30
+\@float@everytoks=\toks27
+\@floatcapt=\box31
 )
 ("D:\Program Files\Miktek\tex\latex\listings\listings.sty"
-\lst@mode=\count110
-\lst@gtempboxa=\box30
-\lst@token=\toks26
-\lst@length=\count111
-\lst@currlwidth=\dimen117
-\lst@column=\count112
-\lst@pos=\count113
-\lst@lostspace=\dimen118
-\lst@width=\dimen119
-\lst@newlines=\count114
-\lst@lineno=\count115
-\lst@maxwidth=\dimen120
+\lst@mode=\count113
+\lst@gtempboxa=\box32
+\lst@token=\toks28
+\lst@length=\count114
+\lst@currlwidth=\dimen131
+\lst@column=\count115
+\lst@pos=\count116
+\lst@lostspace=\dimen132
+\lst@width=\dimen133
+\lst@newlines=\count117
+\lst@lineno=\count118
+\lst@maxwidth=\dimen134
 
 ("D:\Program Files\Miktek\tex\latex\listings\lstmisc.sty"
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count116
-\lst@skipnumbers=\count117
-\lst@framebox=\box31
+\c@lstnumber=\count119
+\lst@skipnumbers=\count120
+\lst@framebox=\box33
 )
 ("D:\Program Files\Miktek\tex\latex\listings\listings.cfg"
 File: listings.cfg 2015/06/04 1.6 listings configuration
@@ -553,38 +607,38 @@ Package color Info: Driver file: pdftex.def on input line 147.
 ) (rapport.aux)
 \openout1 = `rapport.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Info: Redefining \degres on input line 38.
-LaTeX Info: Redefining \dots on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Info: Redefining \degres on input line 39.
+LaTeX Info: Redefining \dots on input line 39.
 Package french.ldf Info: Setting StandardEnumerateEnv=true for
 (french.ldf)             compatibility with enumerate package,
-(french.ldf)             reported on input line 38.
-LaTeX Info: Redefining \up on input line 38.
+(french.ldf)             reported on input line 39.
+LaTeX Info: Redefining \up on input line 39.
 
 ("D:\Program Files\Miktek\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count118
-\scratchdimen=\dimen121
-\scratchbox=\box32
-\nofMPsegments=\count119
-\nofMParguments=\count120
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count121
-\MPscratchDim=\dimen122
-\MPnumerator=\count122
-\makeMPintoPDFobject=\count123
-\everyMPtoPDFconversion=\toks28
+\scratchcounter=\count121
+\scratchdimen=\dimen135
+\scratchbox=\box34
+\nofMPsegments=\count122
+\nofMParguments=\count123
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count124
+\MPscratchDim=\dimen136
+\MPnumerator=\count125
+\makeMPintoPDFobject=\count126
+\everyMPtoPDFconversion=\toks30
 ) ("D:\Program Files\Miktek\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -637,24 +691,24 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-\c@lstlisting=\count124
+\c@lstlisting=\count127
  [1
 
-{C:/Users/damie/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
+{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 94.
+LaTeX Font Info:    Try loading font information for U+msa on input line 95.
 ("D:\Program Files\Miktek\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 94.
+LaTeX Font Info:    Try loading font information for U+msb on input line 95.
 
 ("D:\Program Files\Miktek\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -662,43 +716,43 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <large2.png, id=8, 1927.2pt x 989.6975pt>
 File: large2.png Graphic file (type png)
 <use large2.png>
-Package pdftex.def Info: large2.png  used on input line 110.
+Package pdftex.def Info: large2.png  used on input line 111.
 (pdftex.def)             Requested size: 481.79883pt x 247.42377pt.
 
-Overfull \hbox (21.07759pt too wide) in paragraph at lines 110--111
+Overfull \hbox (21.07759pt too wide) in paragraph at lines 111--112
  [] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[1] [2 <./large2.png (PNG copy)>] [3] (rapport.aux) ) 
+[1] [2 <./large2.png (PNG copy)>] [3] [4] [5] (rapport.aux) ) 
 Here is how much of TeX's memory you used:
- 5589 strings out of 493303
- 73745 string characters out of 3140584
- 144662 words of memory out of 3000000
- 9026 multiletter control sequences out of 15000+200000
+ 6530 strings out of 493303
+ 89020 string characters out of 3140588
+ 168401 words of memory out of 3000000
+ 9932 multiletter control sequences out of 15000+200000
  14943 words of font info for 41 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,8n,32p,664b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\damie\AppData\L
-ocal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk> <C:\Users\damie
-\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1200.pk> <C:\U
-sers\damie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200
-.pk> <C:\Users\damie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
-0\ecbx1728.pk> <C:\Users\damie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
-n\ec\dpi600\eccc1440.pk> <C:\Users\damie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
-ur\jknappen\ec\dpi600\ecbx2488.pk> <C:\Users\damie\AppData\Local\MiKTeX\2.9\fon
-ts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk><D:/Program Files/Miktek/fonts/type
-1/public/amsfonts/cm/cmex10.pfb><D:/Program Files/Miktek/fonts/type1/public/ams
-fonts/cm/cmmi12.pfb><D:/Program Files/Miktek/fonts/type1/public/amsfonts/cm/cmm
-i8.pfb><D:/Program Files/Miktek/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Pr
-ogram Files/Miktek/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files/Mi
-ktek/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/Miktek/fonts/t
-ype1/public/amsfonts/cm/cmsy8.pfb>
-Output written on rapport.pdf (4 pages, 162581 bytes).
+ 41i,10n,37p,664b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\User\Ap
+pData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk> <C:\User
+s\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1200.pk>
+ <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecr
+m1200.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\d
+pi600\ecbx1728.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkna
+ppen\ec\dpi600\eccc1440.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\lj
+four\jknappen\ec\dpi600\ecbx2488.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fo
+nts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk><D:/Program Files/Miktek/fonts/typ
+e1/public/amsfonts/cm/cmex10.pfb><D:/Program Files/Miktek/fonts/type1/public/am
+sfonts/cm/cmmi12.pfb><D:/Program Files/Miktek/fonts/type1/public/amsfonts/cm/cm
+mi8.pfb><D:/Program Files/Miktek/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/P
+rogram Files/Miktek/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files/M
+iktek/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/Miktek/fonts/
+type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on rapport.pdf (6 pages, 179521 bytes).
 PDF statistics:
- 229 PDF objects out of 1000 (max. 8388607)
+ 241 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
