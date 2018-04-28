@@ -1,3 +1,4 @@
+%Get the product of all elements in "vector"
 function [ result ] = produ( vector )
 result = 1;
 
